@@ -1,169 +1,137 @@
-<h1 align="center">Olá, eu sou o Pedro Santos 👋</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor de Sistemas | Java • Node.js • React • SQL</h3>
+# Pedro Santos
 
-<p align="center">
-🎓 Bacharel em Ciência da Computação • 🚀 Pós-graduando em Desenvolvimento Full Stack (FIAP)
-</p>
+### Desenvolvedor de Sistemas
 
-<p align="center">
-Construindo soluções que resolvem problemas reais através do desenvolvimento de software.
-</p>
+Bacharel em Ciência da Computação • Pós-graduando em Desenvolvimento Full Stack (FIAP)
+
+Construindo soluções através do desenvolvimento de software.
+
+<br>
+
+<a href="mailto:pedrostdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pedrosantosfsdev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dev-pedrosantos">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👋 Sobre mim
 
 Sou Desenvolvedor de Sistemas formado em Ciência da Computação pela Universidade Presidente Antônio Carlos (UNIPAC) e atualmente pós-graduando em Desenvolvimento Full Stack pela FIAP.
 
-Tenho experiência prática no desenvolvimento de aplicações web, APIs REST, bancos de dados relacionais e implantação de sistemas em servidores Linux.
+Tenho experiência prática no desenvolvimento de sistemas corporativos, aplicações web e APIs REST, atuando desde o levantamento de requisitos até a implantação em ambiente Linux.
 
-Atuo principalmente utilizando Java, Node.js, React e Next.js, sempre buscando escrever código limpo, escalável e de fácil manutenção.
-
----
-
-# 🚀 Tecnologias
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jakarta_EE-F80000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WildFly-6A1B9A?style=for-the-badge"/>
-
-</p>
+Meu objetivo é construir software limpo, escalável e que resolva problemas reais.
 
 ---
 
-# 📌 Projetos em Destaque
+# 🚀 Stack
 
-## 🧩 Sistema AMAB
+<div align="center">
 
-Sistema desenvolvido para gerenciamento de atendimentos, prontuários, usuários e agendamentos da Associação de Mães e Amigos do Autista.
+### Backend
 
-**Stack**
+<img src="https://skillicons.dev/icons?i=java,nodejs,express"/>
 
-- Java
-- Jakarta EE
-- MySQL
-- REST
+### Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
 
-## 🌐 Soluções Web
+### Banco de Dados
 
-Desenvolvimento de aplicações web para empresas, incluindo landing pages, sistemas personalizados e automação de processos.
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
-**Stack**
+### Ferramentas
 
-- Java
-- Node.js
-- React
-- Next.js
-- Docker
-- PostgreSQL
-- MySQL
+<img src="https://skillicons.dev/icons?i=git,docker,linux"/>
 
----
-
-## 📚 Plataforma de Conteúdo Educacional
-
-API REST para gerenciamento de conteúdos educacionais.
-
-**Stack**
-
-- Node.js
-- Express
-- Sequelize
-- Docker
-- MySQL
+</div>
 
 ---
 
 # 💼 Experiência
 
-✔ Desenvolvimento Full Stack
+## 🏢 Dataservis Tecnologia
 
-✔ APIs REST
+**Estagiário de Desenvolvimento de Sistemas**
 
-✔ Banco de Dados SQL
-
-✔ Docker
-
-✔ Linux
-
-✔ Deploy de aplicações
-
-✔ Git
-
-✔ Integrações entre sistemas
-
-✔ Sistemas Corporativos
+- Desenvolvimento e manutenção de aplicações internas.
+- Correção de bugs.
+- Suporte aos usuários.
+- Consultas SQL.
+- Levantamento de requisitos.
+- Documentação técnica.
 
 ---
 
-# 📖 Atualmente estudando
+## 🚀 Freelancer
+
+Desenvolvimento de aplicações web, APIs REST, landing pages e sistemas personalizados para empresas.
+
+Tecnologias utilizadas:
+
+- Java
+- Node.js
+- React
+- Next.js
+- PostgreSQL
+- MySQL
+- Docker
+- Linux
+
+---
+
+# 📌 Projetos
+
+## 🧩 Sistema AMAB
+
+Sistema para gerenciamento de atendimentos, prontuários, usuários e agendamentos da Associação de Mães e Amigos do Autista.
+
+**Java • Jakarta EE • MySQL • REST**
+
+---
+
+## 🌐 Soluções Web
+
+Desenvolvimento de aplicações para empresas, incluindo landing pages, sistemas personalizados e automação de processos.
+
+**Java • React • Next.js • Node.js**
+
+---
+
+## 📚 Plataforma Educacional
+
+API REST para gerenciamento de conteúdos educacionais.
+
+**Node.js • Express • Sequelize • MySQL**
+
+---
+
+# 📚 Atualmente estudando
 
 - Arquitetura de Software
 - Microsserviços
-- Spring Boot
-- Cloud
 - Docker
 - Clean Code
-- Boas práticas de desenvolvimento
-
----
-
-# 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-pedrosantos&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedrosantos&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dev-pedrosantos&theme=github-dark&hide_border=true"/>
-
-</p>
+- Clean Architecture
+- Desenvolvimento Full Stack
 
 ---
 
 # 🎯 Objetivo
 
-Meu objetivo é construir soluções escaláveis e participar de projetos que gerem impacto real para pessoas e empresas, evoluindo continuamente como desenvolvedor de software.
+Atuar no desenvolvimento de sistemas robustos, escaláveis e de alta qualidade, contribuindo para projetos que gerem impacto real para pessoas e empresas.
 
 ---
 
